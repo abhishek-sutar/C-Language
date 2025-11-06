@@ -2,11 +2,12 @@
 
 int main()
 {
+
     int phy, chem, bio, math, comp; 
     float per; 
 
    
-    printf("Enter five subjects marks: ");
+    printf("Enter five subjects marks:  ");
     scanf("%d%d%d%d%d", &phy, &chem, &bio, &math, &comp);
 
 
